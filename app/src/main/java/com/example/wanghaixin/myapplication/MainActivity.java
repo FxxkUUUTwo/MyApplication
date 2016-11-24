@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 /*
 *
-*这是连接了吗
+*这是连接了吗,好像不是
 * */
 public class MainActivity extends AppCompatActivity {
 
